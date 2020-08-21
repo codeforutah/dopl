@@ -1,7 +1,7 @@
 # DOPL Data
 This web app allows citizens to reference and search the Utah Division of Occupational and Professional Licensing database. One primary motive in creating this project was to allow searching based on a city, which is not supported on the [State's website](https://secure.utah.gov/llv/search/index.html). The data was last updated in April of 2019.
 
-Give it a try by clicking [here](https://opensaltlake.github.io/dopl/)
+Give it a try by clicking [here](https://codeforutah.github.io/dopl/)
 
 biz.csv - contains entire license database
 
